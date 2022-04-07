@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#flash {
+    background-color: white;
+    width: 100%;
+}
+
+.header {
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: gray;
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
+}
+
+#button {
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+    border: 3px solid black;
+    margin-top: -3px;
+}
+
